@@ -1,2 +1,2 @@
-# Agile-Project-Management-Agile-Scrum-Kanban-and-XP
-Agile Project Management: Agile, Scrum, Kanban, and XP, by Packt Publishing
+# Agile Masterclass: Agile for Project Management
+Agile Masterclass: Agile for Project Management, by Packt Publishing
